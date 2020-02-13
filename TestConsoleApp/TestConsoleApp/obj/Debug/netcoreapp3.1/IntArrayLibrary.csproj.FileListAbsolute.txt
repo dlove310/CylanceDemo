@@ -1,0 +1,8 @@
+C:\Users\david\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp3.1\IntArrayLibrary.deps.json
+C:\Users\david\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp3.1\IntArrayLibrary.dll
+C:\Users\david\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp3.1\IntArrayLibrary.pdb
+C:\Users\david\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp3.1\IntArrayLibrary.csprojAssemblyReference.cache
+C:\Users\david\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp3.1\IntArrayLibrary.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp3.1\IntArrayLibrary.AssemblyInfo.cs
+C:\Users\david\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp3.1\IntArrayLibrary.dll
+C:\Users\david\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp3.1\IntArrayLibrary.pdb

@@ -1,0 +1,8 @@
+C:\Users\david\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.deps.json
+C:\Users\david\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.dll
+C:\Users\david\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.pdb
+C:\Users\david\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.AssemblyInfo.cs
+C:\Users\david\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.dll
+C:\Users\david\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.pdb
+C:\Users\david\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.csprojAssemblyReference.cache

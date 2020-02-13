@@ -1,0 +1,14 @@
+C:\Users\david\source\repos\TestConsoleApp\TestExecutable\bin\Debug\netcoreapp3.1\TestExecutable.exe
+C:\Users\david\source\repos\TestConsoleApp\TestExecutable\bin\Debug\netcoreapp3.1\TestExecutable.deps.json
+C:\Users\david\source\repos\TestConsoleApp\TestExecutable\bin\Debug\netcoreapp3.1\TestExecutable.runtimeconfig.json
+C:\Users\david\source\repos\TestConsoleApp\TestExecutable\bin\Debug\netcoreapp3.1\TestExecutable.runtimeconfig.dev.json
+C:\Users\david\source\repos\TestConsoleApp\TestExecutable\bin\Debug\netcoreapp3.1\TestExecutable.dll
+C:\Users\david\source\repos\TestConsoleApp\TestExecutable\bin\Debug\netcoreapp3.1\TestExecutable.pdb
+C:\Users\david\source\repos\TestConsoleApp\TestExecutable\bin\Debug\netcoreapp3.1\IntArrayLibrary.dll
+C:\Users\david\source\repos\TestConsoleApp\TestExecutable\bin\Debug\netcoreapp3.1\IntArrayLibrary.pdb
+C:\Users\david\source\repos\TestConsoleApp\TestExecutable\obj\Debug\netcoreapp3.1\TestExecutable.csprojAssemblyReference.cache
+C:\Users\david\source\repos\TestConsoleApp\TestExecutable\obj\Debug\netcoreapp3.1\TestExecutable.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\TestConsoleApp\TestExecutable\obj\Debug\netcoreapp3.1\TestExecutable.AssemblyInfo.cs
+C:\Users\david\source\repos\TestConsoleApp\TestExecutable\obj\Debug\netcoreapp3.1\TestExecutable.csproj.CopyComplete
+C:\Users\david\source\repos\TestConsoleApp\TestExecutable\obj\Debug\netcoreapp3.1\TestExecutable.dll
+C:\Users\david\source\repos\TestConsoleApp\TestExecutable\obj\Debug\netcoreapp3.1\TestExecutable.pdb
